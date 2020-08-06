@@ -5,7 +5,7 @@
 
 - 📝 I regulary write articles on [https://akshit.me](https://akshit.me)
 
-- 💬 Ask me about **JS, MongoDB and Unix.**
+- 💬 Ask me about **JS, JSON, Python, Git, Legal Stuff, MongoDB and Unix.**
 
 - 📫 How to reach me **admin@akshit.me**
 
