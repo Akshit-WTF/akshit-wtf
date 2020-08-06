@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshit Kumar.</h1>
 <h3 align="center">A self taught programmer from New Delhi, India currently studying Law.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit-wtf" alt="akshit-wtf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit-wtf" alt="akshit-wtf" /> [![Years Badge](https://badges.pufler.dev/years/akshit-wtf)]</p>
 
 - 📝 I regulary write articles on [https://akshit.me](https://akshit.me)
 
