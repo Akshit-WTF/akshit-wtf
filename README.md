@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JS, JSON, Python, Git, Legal Stuff, MongoDB and Unix.**
 
-- 📫 How to reach me **admin@akshit.me**
+- 📫 How to reach me **admin@akshit.me** or on Discord **Error 401#0001**
 
 - ⚡ Fun fact **A programmer is not a programmer if they don't procrastinate.**
 
