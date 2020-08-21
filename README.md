@@ -1,5 +1,5 @@
 <h1 align="left">नमस्ते (Namaste) 🙏🏻, I'm Akshit Kumar.</h1>
-<h3 align="left">A MEEN stack web developer from New Delhi, India currently studying Law.</h3>
+<h3 align="left">A MEAN stack web developer from New Delhi, India currently studying Law.</h3>
 
 <p align="center">
     <img src="https://img.shields.io/twitter/follow/akshit_wtf?label=Follow" alt="Twitter followers" />
