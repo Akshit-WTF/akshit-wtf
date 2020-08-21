@@ -30,7 +30,8 @@
     },
     "devOps": {
       "cdn": ["bunnyCDN", "Amazon S3"],
-      "servers": ["AWS", "Google Cloud", "Alibaba Cloud", "DigitalOcean"],
+      "serverProviders": ["AWS", "Google Cloud", "Alibaba Cloud", "DigitalOcean"],
+      "OS": ["ubtunu", "openBSD", "CentOS", "RedHat"]
       "misc": ["nginx", "apache"]
     },
     "databases": ["mongo", "sqlite", "MySQL"],
