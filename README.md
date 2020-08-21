@@ -1,19 +1,48 @@
-<h1 align="center">Hi 👋, I'm Akshit Kumar.</h1>
-<h3 align="center">A self taught programmer from New Delhi, India currently studying Law.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit-wtf" alt="akshit-wtf" /></p>
-
-- 📝 I regulary write articles on [https://akshit.me](https://akshit.me)
-
-- 💬 Ask me about **JS, JSON, Python, Git, Legal Stuff, MongoDB and Unix.**
-
-- 📫 How to reach me **admin@akshit.me** or on Discord **Error 401#0001**
-
-- ⚡ Fun fact **A programmer is not a programmer if they don't procrastinate.**
-
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/160px-JSON_vector_logo.svg.png" alt="express" width="60" height="60"/> <img src="https://lh3.googleusercontent.com/4JslP58d48U4jIquhfV1RnVppuPHv8sDFskHV-KmIaOYiBvcHuA763r0R2P2QcGzYScG" alt="express" width="60" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> <img src="https://avatars.slack-edge.com/2017-03-07/151004491715_3968f338838a2f4157a8_512.png" alt="express" width="60" height="60"/> <img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" alt="express" width="60" height="60"/> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="60" height="60"/> <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="R" width="60" height="60"/> <img src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/webstorm.svg" alt="R" width="60" height="60"/><img src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/intellij.svg" alt="R" width="60" height="60"/><img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" alt="R" width="60" height="60"/><img src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg" alt="R" width="60" height="60"/><img src="https://pbs.twimg.com/profile_images/714866842419011584/LRrR48qp_400x400.jpg" alt="R" width="60" height="60"/><img src="https://global.download.synology.com/download/Package/img/Apache2.2/2.2.34-0020/thumb_256.png" alt="R" width="60" height="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" alt="R" width="60" height="60"/><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="R" width="60" height="60"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshit-wtf&show_icons=true" alt="akshit-wtf" /> </p>
+<h1 align="left">नमस्ते (Namaste) 🙏🏻, I'm Akshit Kumar.</h1>
+<h3 align="left">A MEEN stack web developer from New Delhi, India currently studying Law.</h3>
 
 <p align="center">
-    <a href="https://twitter.com/akshit_wtf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akshit_wtf" height="20" width="20" /></a>
-    <a href="https://instagram.com/akshit.wtf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akshit.wtf" height="20" width="20" /></a>
+    <img src="https://img.shields.io/twitter/follow/akshit_wtf?label=Follow" alt="Twitter followers" />
+    <img src="https://komarev.com/ghpvc/?username=akshit-wtf" alt="akshit-wtf" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-500,000%20lines%20of%20code-yellow" alt="Lines of code" />
+    <img src="https://img.shields.io/github/followers/akshit-wtf?label=Follow&style=social" alt="github followers" />
 </p>
+
+- 📝 Once in a blue moon, I write articles on [https://akshit.me](https://akshit.me)
+
+- 📫 You can reach me via [Email](mailto:admin@akshit.me) and **Discord** *@Error 401#0001*.
+
+## About Me
+
+```json
+{
+  "name": "Akshit Kumar",
+  "code": ["Javascript", "JSON", "CSS", "HTML", "Go", "Typescript", "Python"],
+  "askMeAbout": ["web dev", "tech", "discord.js", "mongodb", "cyber security"],
+  "technologies": {
+    "frontEnd": {
+      "js": ["JQuery", "AJAX"],
+      "css": ["bootstrap", "materialize", "hardcode"]
+    },
+    "backEnd": {
+      "js": ["node", "express", "hexo", "EJS", "Pug"],
+      "python": ["flask", "django"]
+    },
+    "devOps": {
+      "cdn": ["bunnyCDN", "Amazon S3"],
+      "servers": ["AWS", "Google Cloud", "Alibaba Cloud", "DigitalOcean"],
+      "misc": ["nginx", "apache"]
+    },
+    "databases": ["mongo", "sqlite", "MySQL"],
+    "misc": ["Firebase", "Socket.IO"]
+  },
+  "architecture": [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications"
+  ],
+  "currentProject": "Developing the eCrimePortal",
+  "funFact": "If it works, don't touch it."
+}
+
+```
