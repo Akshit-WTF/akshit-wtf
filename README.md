@@ -10,7 +10,7 @@
 
 - 📝 Once in a blue moon, I write articles on [https://akshit.me](https://akshit.me)
 
-- 📫 You can reach me via [Email](mailto:admin@akshit.me) and **Discord** *@Error 401#0001*.
+- 📫 You can reach me via [Email](mailto:admin@akshit.me) and **Discord** *@Error 401#3171*.
 
 ## About Me
 
@@ -40,9 +40,10 @@
   "architecture": [
     "Serverless Architecture",
     "Progressive web applications",
-    "Single page applications"
+    "Single page applications",
+    "Massive management systems"
   ],
-  "currentProject": "Developing the eCrimePortal",
+  "currentProject": "Working on a case management system for a Law Firm",
   "funFact": "If it works, don't touch it."
 }
 
