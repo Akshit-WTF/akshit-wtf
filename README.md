@@ -9,7 +9,6 @@
 </a>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=akshit-wtf" alt="akshit-wtf" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-750,000%20lines%20of%20code-yellow" alt="Lines of code" />
     <img src="https://img.shields.io/github/followers/akshit-wtf?label=Follow&style=social" alt="github followers" />
 </p>
 
